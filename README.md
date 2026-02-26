@@ -37,7 +37,7 @@ The main goals of this analysis were:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](images/dashboard-overview.png)
 
 ---
 
